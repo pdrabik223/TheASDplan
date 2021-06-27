@@ -6,6 +6,9 @@ The plan:
    -  [dataset.pdf](previously_on_exam.pdf)
 
 
-2. And than idk 
+2. Recap a.k.a. all the useful information one can find in [presentations](asd1_i_2_ALL_prof_Gwizdalla_poprawnie.pdf) 
+    
+    - [recap.md](recap.md)
 
+    - [recap.pdf](recap.pdf)
 
