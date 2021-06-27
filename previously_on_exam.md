@@ -1,5 +1,4 @@
-The question dataset*
-
+The question dataset
 
 1. Jaka skrzynka ma w schemacie blokowym kształt rombu?<br>
 a. Graniczna<br>
