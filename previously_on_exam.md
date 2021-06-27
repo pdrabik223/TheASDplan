@@ -51,12 +51,11 @@ a. Wartości funkcji dla dwóch wierzchołków muszą być jak najbliższe rzecz
 `b. Wartości funkcji dla dwóch wierzchołków muszą być mniejsze od rzeczywistych sum wag`<br>
 c. Wartości funkcji dla dwóch wierzchołków muszą być większe od rzeczywistych sum wag<br>
 d. Nie ma żadnych reguł tworzenia tej funkcji<br>
-12. Ile elementów zawiera w momencie rozpoczęcia procedury struktura stanu w algorytmie zamiatania, jeśli zbiór
-zawiera n odcinków?
-a. 2n
-b. Nie można określić
-c. n
-`d. 0`
+12. Ile elementów zawiera w momencie rozpoczęcia procedury struktura stanu w algorytmie zamiatania, jeśli zbiór zawiera n odcinków?<br>
+a. 2n<br>
+b. Nie można <br>
+c. n<br>
+`d. 0`<br>
 13. W którym z algorytmów wyszukiwania wzorca próbuje się zmniejszyć złożoność obliczeniową poprzez zapamiętanie stałego czasu wykonania operacji przy jednym przesunięciu?<br>
 `a. Karpa-rabina`<br>
 b. Naiwnym<br>
@@ -92,7 +91,7 @@ a. Tylko rodziców<br>
 b. Tylko potomków<br>
 c. Rodziców i potomków<br>
 `d. Nie można jednoznacznie określić`<br>
-*Tutaj jest podchwytliwe w ogóle bo element o najmniejszym kluczu może mieć tylko jednego potomka(z kluczem większym od siebie), nie potomkÓW. Drzewo nie jest wtedy zrównoważone ale kij.*<br>
+*Tutaj jest podchwytliwe w ogóle bo element o najmniejszym kluczu może mieć tylko jednego potomka(z kluczem większym od siebie), nie potomków. Drzewo nie jest wtedy zrównoważone ale kij.*<br>
 20. W drzewie BST chcemy usunąć element, który nie jest liściem. Który z elementów może go zastąpić?<br>
 `a. Element o najmniejszym kluczu z prawego poddrzewa`<br>
 b. Element o najmniejszym kluczu z lewego poddrzewa<br>
