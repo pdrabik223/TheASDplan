@@ -8,7 +8,11 @@ The plan:
 
 2. Recap a.k.a. all the useful information one can find in [presentations](asd1_i_2_ALL_prof_Gwizdalla_poprawnie.pdf) 
     
-    - [recap.md](recap.md)
+    - [recap.md](recaps/recap.md)
 
-    - [recap.pdf](recap.pdf)
+    - [recap.pdf](recaps/recap.pdf)
 
+3. small but hard stuff
+    - [complexity_recap.md](recaps/complexity_recap.md)
+
+    - [complexity_recap.pdf](recaps/complexity_recap.pdf)

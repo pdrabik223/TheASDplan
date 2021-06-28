@@ -7,9 +7,9 @@ Czyli chodzi o zapis "jaką złożoność posiada dany algorytm".
 
 ## Rozróżniamy 
  - O(1) – złożoność stała<br>
- - O(logn) – złożoność logarytmiczna<br>
+ - O(log(n)) – złożoność logarytmiczna<br>
  - O(n) – złożoność liniowa<br>
- - O(nlogn) – złożoność liniowo-logarytmiczna<br>
+ - O(nlog(n)) – złożoność liniowo-logarytmiczna<br>
  - O(n^2) – złożoność kwadratowa<br>
  - O(n^k), gdzie k jest stałą – złożoność wielomianowa<br>
  - O(k^n), gdzie k jest stałą – złożoność wykładnicza<br>
